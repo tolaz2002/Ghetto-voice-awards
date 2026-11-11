@@ -1,0 +1,6 @@
+{
+  "name": "The Ghetto Voice Awards 2026",
+  "description": "Official voting platform for The Ghetto Voice Awards Zimbabwe 2026. Celebrating the Voices of the Streets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
